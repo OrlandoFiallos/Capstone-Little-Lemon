@@ -5,3 +5,6 @@ password: 12345
 
 username: Orlando
 password: mousecase
+
+username: Rivera
+password: plantamouse
