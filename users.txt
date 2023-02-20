@@ -1,10 +1,13 @@
 ADMIN 
 username: manuelfiallos
 password: 12345
+token:  ef4bcc997770f316b31253635fff0fc00eebf69b
 
 
 username: Orlando
 password: mousecase
+token: 94ed973340d14449eb309fe705a50a320d51f0a0
 
 username: Rivera
 password: plantamouse
+token: 4c99340c155e140e513d5637a7662adc13072e77
